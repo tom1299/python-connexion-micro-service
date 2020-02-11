@@ -11,7 +11,6 @@ paths:
     post:
       summary: Generate greeting
       description: Generates a greeting message.
-      operationId: hello.post_greeting
       produces:
         - text/plain;
       responses:
